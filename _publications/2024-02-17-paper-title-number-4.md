@@ -7,7 +7,7 @@ excerpt: ' We propose a novel framework,
 EXplainable Multi-property Optimization of MoLecules
 (XMOL), to optimize multiple molecular properties simultaneously while incorporating explainability.'
 date: 2024-02-17
-venue: 'Under Review in The IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025'
+venue: 'Currently Under Review in The IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025'
 paperurl: '/XMOL.pdf'
 citation: ''
 ---
