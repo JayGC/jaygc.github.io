@@ -7,7 +7,7 @@
 main:
 
   - title: "Projects & Internships"
-    url: /_projects/
+    url: /portfolio/
     
   - title: "CV"
     url: /files/CV3page.pdf
