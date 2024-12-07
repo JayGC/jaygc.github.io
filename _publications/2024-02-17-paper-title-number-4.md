@@ -3,7 +3,7 @@ title: "XMOL: Explainable Multi-property Optimization of Molecules"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: ' We propose a novel framework,
+excerpt: ' Proposed a novel framework,
 EXplainable Multi-property Optimization of MoLecules
 (XMOL), to optimize multiple molecular properties simultaneously while incorporating explainability.'
 date: 2024-02-17
