@@ -27,7 +27,15 @@ I am currently working with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.
 
 ## Internships
 
+### ML intern @ Atomberg
+
+During my winter internship at Atomberg Technologies Private Limited, Pune, I worked on an advanced machine learning project focused on fan detection and classification. I implemented YOLO for high-precision fan detection, optimizing parameters for real-time performance, and extensively tested YOLOv5 and YOLOv7 to achieve excellent detection metrics. For classification, I utilized Vision Transformers (ViT), fine-tuning the model on a large dataset to improve accuracy. I also developed an integrated pipeline combining YOLO and ViT, incorporating data preprocessing and augmentation techniques to enhance workflow efficiency.
+
+### Research Intern @ A*star Research Agency, Singapore
 
 
+During the summer of my third year, I was a research intern at A*STAR Research, Singapore, under the guidance of [Dr. J. Senthilnath](https://research.a-star.edu.sg/researcher/j-senthilnath/), focusing on implementing advanced methodologies for 3D molecule generation and multi-property optimization. While my primary contributions were on the implementation side—extending single-property geometric diffusion techniques to multi-property optimization and integrating spectral normalization and molecular constraints for training stability—I also contributed conceptually by designing a novel loss function to enforce chemical validity, which significantly improved model performance. Additionally, I developed an architecture incorporating GNNShap for ante-hoc explainable AI, ensuring interpretability and transparency during training and predictions.
+
+Our work, **“XMOL: Explainable Multi-property Optimization of Molecules”** is currently under review at ICASSP 2025.
 
 
