@@ -15,5 +15,12 @@ Object detection models heavily rely on large, labeled datasets, which are often
 
 To address the reliance on labeled data, our project employs a semi-supervised learning framework using CAGE (Continuous and Quality-Guided Labeling Functions) and pseudo-labeling techniques. CAGE integrates predictions from multiple deep learning models, such as ResNet and VGG-16, to generate robust and accurate pseudo-labels. These pseudo-labels allow us to train object detection frameworks like Faster R-CNN on unlabeled data. By leveraging joint learning, we optimize the pseudo-labeling process and the detection model simultaneously. This approach enhances scalability, improves accuracy, and enables effective object detection in scenarios where labeled datasets are scarce or unavailable.
 
+### Threshold-Based Optimal Arm Selection in Structured Bandit Problems
+B.Tech thesis project with [Prof. Prasanna Chaporkar](https://www.ee.iitb.ac.in/web/people/prasanna-chaporkar/)
+
+In communication systems, ensuring efficient resource allocation while maintaining performance is a critical challenge. The problem lies in determining the optimal amount of resources required to guarantee that the average loss remains below a specified threshold. Striking this balance is essential to optimize system performance without over-provisioning, which can lead to unnecessary costs and inefficiencies.
+
+
+
 
 
