@@ -9,6 +9,7 @@ redirect_from:
 
 ## Research Projects
 ### Semi-Supervised Object Detection with CAGE Pseudo-Labeling
+Research project with [Prof. Ganesh Ramkrishnan](https://www.cse.iitb.ac.in/~ganesh/)
 
 
 
